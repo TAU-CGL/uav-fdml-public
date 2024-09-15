@@ -6,7 +6,7 @@
 ![cover](https://github.com/TAU-CGL/uav-fdml-public/blob/main/docs/cover.png?raw=true)
 
 Few-measurementLocalization with Approximations of Preimaged for Indoor UAVs
-The Supplementary Material can be found in the `docs` directory.
+The Supplementary Materials can be found in the `docs` directory.
 
 ## The header `fdml.h`
 
