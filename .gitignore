@@ -1,0 +1,12 @@
+build/
+bin/
+lib/
+raw/
+.vscode/
+
+.DS_Store
+
+__pycache__/
+
+*.csv
+*.db
