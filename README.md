@@ -2,7 +2,11 @@
 [![Tests](https://github.com/TAU-CGL/se3-localization/actions/workflows/tests.yml/badge.svg)](https://github.com/TAU-CGL/se3-localization/actions/workflows/tests.yml)
 
 # UAV-Localization
+
+![cover](https://github.com/TAU-CGL/uav-fdml-public/blob/main/docs/cover.png?raw=true)
+
 Few-measurementLocalization with Approximations of Preimaged for Indoor UAVs
+The Supplementary Material can be found in the `docs` directory.
 
 ## The header `fdml.h`
 
